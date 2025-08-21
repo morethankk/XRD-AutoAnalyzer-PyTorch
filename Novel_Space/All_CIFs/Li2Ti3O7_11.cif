@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li2Ti3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54420000
+_cell_length_b   3.75200000
+_cell_length_c   9.31500000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   97.61380000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ti3O7
+_chemical_formula_sum   'Li4 Ti6 O14'
+_cell_volume   261.34428933
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Li+  1.0
+  Ti4+  4.0
+  O2-  -2.0
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li+  Li0  1  0.60000000  0.25000000  0.82900000  1.0
+  Li+  Li1  1  0.40000000  0.75000000  0.17100000  1.0
+  Li+  Li2  1  0.41600000  0.25000000  0.39200000  1.0
+  Li+  Li3  1  0.58400000  0.75000000  0.60800000  1.0
+  Ti4+  Ti4  1  0.16300000  0.25000000  0.96800000  1.0
+  Ti4+  Ti5  1  0.83700000  0.75000000  0.03200000  1.0
+  Ti4+  Ti6  1  0.26600000  0.25000000  0.65900000  1.0
+  Ti4+  Ti7  1  0.73400000  0.75000000  0.34100000  1.0
+  Ti4+  Ti8  1  0.04800000  0.25000000  0.27900000  1.0
+  Ti4+  Ti9  1  0.95200000  0.75000000  0.72100000  1.0
+  O2-  O10  1  0.25500000  0.25000000  0.16500000  1.0
+  O2-  O11  1  0.74500000  0.75000000  0.83500000  1.0
+  O2-  O12  1  0.18000000  0.25000000  0.44900000  1.0
+  O2-  O13  1  0.82000000  0.75000000  0.55100000  1.0
+  O2-  O14  1  0.49300000  0.25000000  0.62800000  1.0
+  O2-  O15  1  0.50700000  0.75000000  0.37200000  1.0
+  O2-  O16  1  0.35500000  0.25000000  0.87500000  1.0
+  O2-  O17  1  0.64500000  0.75000000  0.12500000  1.0
+  O2-  O18  1  0.01000000  0.25000000  0.75600000  1.0
+  O2-  O19  1  0.99000000  0.75000000  0.24400000  1.0
+  O2-  O20  1  0.79900000  0.25000000  0.33300000  1.0
+  O2-  O21  1  0.20100000  0.75000000  0.66700000  1.0
+  O2-  O22  1  0.90500000  0.25000000  0.04800000  1.0
+  O2-  O23  1  0.09500000  0.75000000  0.95200000  1.0
